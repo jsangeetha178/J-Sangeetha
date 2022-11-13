@@ -1,0 +1,35 @@
+{
+        "tId": 1,
+        "insuranceName": "lost Luggage",
+        "email": "sam@gmail.com",
+        "location": "Vizag",
+        "premium": 5000,
+        "sumInsured": 15000,
+        "travelPolicy": {
+            "policyId": 3,
+            "policyNumber": 600,
+            "clientName": "sam",
+            "dateOfPurchase": "17-11-2019",
+            "dateOfExpire": "17-11-2022",
+            "isClaimed": "Yes",
+            "claimDate": "18-5-2022"
+        }
+    }
+    //travelpolicy details
+    {
+    "policyNumber":600,
+        "clientName":"sam",
+        "dateOfPurchase":"17-11-2019",
+        "dateOfExpire": "17-11-2022",
+        "isClaimed": "Yes",
+        "claimDate": "18-5-2022"
+        }
+        //travelInsurance
+        {
+    
+        "insuranceName":"lost Luggage",
+        "email":"sam@gmail.com",
+        "location": "Vizag",
+        "premium": 5000,
+        "sumInsured": 15000
+}
