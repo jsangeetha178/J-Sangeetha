@@ -1,0 +1,61 @@
+
+ {
+        "policyId": 2,
+        "policyNumber": 600,
+        "clientName": "sam",
+        "dateOfPurchase": "17-08-2019",
+        "dateOfExpire": "01-10-2022",
+        "isClaimed": "Yes",
+        "claimDate": "15-4-2022",
+        "travelInsurance": {
+            "tId": 1,
+            "insuranceName": "Slip & Fall Accident",
+            "email": "sam@gmail.com",
+            "location": "Uttarakhand",
+            "isMedicalNeed": "Yes",
+            "isLostBelongings": "No",
+            "cancellation": "No",
+            "premium": 15000,
+            "sumInsured": 265000
+        }
+    },
+    {
+        "policyId": 4,
+        "policyNumber": 601,
+        "clientName": "anu",
+        "dateOfPurchase": "20-08-2021",
+        "dateOfExpire": "31-12-2022",
+        "isClaimed": "Yes",
+        "claimDate": "9-6-2022",
+        "travelInsurance": {
+            "tId": 3,
+            "insuranceName": "Trip cancellation",
+            "email": "anu@gmail.com",
+            "location": "korea",
+            "isMedicalNeed": "No",
+            "isLostBelongings": "No",
+            "cancellation": "Yes",
+            "premium": 15000,
+            "sumInsured": 190000
+        }
+    },
+    {
+        "policyId": 6,
+        "policyNumber": 603,
+        "clientName": "kelvin",
+        "dateOfPurchase": "8-11-2018",
+        "dateOfExpire": "15-11-2022",
+        "isClaimed": "Yes",
+        "claimDate": "7-3-2022",
+        "travelInsurance": {
+            "tId": 5,
+            "insuranceName": "Lost Luggage",
+            "email": "kelvin@gmail.com",
+            "location": "Paris",
+            "isMedicalNeed": "No",
+            "isLostBelongings": "Yes",
+            "cancellation": "No",
+            "premium": 9000,
+            "sumInsured": 15000
+        }
+    }
