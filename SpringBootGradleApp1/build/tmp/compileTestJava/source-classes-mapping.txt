@@ -1,0 +1,2 @@
+com/san/gtest/SpringBootGradleApp1ApplicationTests.java
+ com.san.gtest.SpringBootGradleApp1ApplicationTests

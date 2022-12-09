@@ -1,0 +1,6 @@
+com/san/gtest/controller/MyWebController.java
+ com.san.gtest.controller.MyWebController
+com/san/gtest/SpringBootGradleApp1Application.java
+ com.san.gtest.SpringBootGradleApp1Application
+com/san/gtest/entity/AppUser.java
+ com.san.gtest.entity.AppUser
